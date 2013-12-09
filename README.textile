@@ -2,11 +2,11 @@ h1. This is the data for my blog
 
 It is automatically transformed by "Jekyll":http://github.com/mojombo/jekyll into a static site whenever I push this repository to GitHub.
 
-使用hueidou163.github.io 的博客作为模板，站点名称为 "TEST":http://zhouxinran.github.com/ 。
+使用 http://hueidou.github.io 的博客作为模板，站点名称为 "TEST":http://zhouxinran.github.com 。
 
 h1. License
 
-The following directories and their contents are Copyright hueidou163. You may not reuse anything therein without my permission:
+The following directories and their contents are Copyright zhouxinran. You may not reuse anything therein without my permission:
 
 * _posts/
 * images/
