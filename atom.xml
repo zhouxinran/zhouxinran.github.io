@@ -10,8 +10,8 @@ layout: nil
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://zhouxinran.github.com/</id>
  <author>
-   <name>hueidou163</name>
-   <email>hueidou163@gmail.com</email>
+   <name>zhouxinran</name>
+   <email>zhouxinran@gmail.com</email>
  </author>
 
  {% for post in site.posts %}
